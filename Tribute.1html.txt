@@ -1,0 +1,58 @@
+<nav>
+  <ul>
+    <li><a href="#about"></a><b><u>About</u></b></li>
+    <li><a href="#timeline"></a><b><u>Timeline</u></b></li>
+  </ul>
+
+</nav>
+
+<section id="main">
+  <div class="container">
+    <div id="tribute-info" class="tribute-info">
+      <h1 id="title">Nikola Tesla</h1>
+      <p>
+        Nikola Tesla was a Serbian-American inventor, electrical engineer, mechanical engineer, and futurist best known for his contributions to the design of the modern alternating current electricity supply system.
+      </p>
+
+    </div>
+  </div>
+
+  <div id="img-div" class="img-div">
+    <img src="https://www.biography.com/.image/t_share/MTY2Njc5MTIyNzY2OTk2NTM1/nikola_tesla_napoleon-sarony-public-domain-via-wikimedia-commons.jpg " alt="Nikola" id="image" class="responsive-img" />
+    <p id="img-caption">Nikola Tesla - A Man Ahead of His Time</p>
+  </div>
+</section>
+
+<section id="timeline">
+  <div class="container">
+    <h2>Timeline:</h2>
+    <ul>
+      <li>Jul, 1856-
+        Nikola Tesla Is Born
+        Tesla was born to Serbian parents in the village of Smiljan, Austrian Empire</li>
+      <li>1875-Enrolls At Austrian Polytechnic</li>
+      <li>1882-He begins working for Continental Edison</li>
+      <li>1882-Identifies Magnetic Induction Field Principle</li>
+      <li>Jun, 1884-arrives in the United States</li>
+      <li>1885-quits working for Edison</li>
+      <li>1886-Tesla forms Tesla Electric Light and Manufacturing Company</li>
+      <li>1887-War of Currents era begins</li>
+      <li>Apr,188-begins experimenting with X-Rays</li>
+      <li>May,1888-Tesla Delivers Lecture: A New System of Alternating Current Motors and Transformers</li>
+      <li>1891-Patents the Tesla Coil</li>
+      <li>Jul, 1891-becomes a citizen of the United States</li>
+      <li>1893-Nikola Tesla and George Westinghouse power the World's Columbian Exposition</li>
+      <li>1899-Tesla moves to research facility in Colorado Springs</li>
+      <li>1901-Construction begins on Tesla's Wardenclyffe Tower</li>
+      <li>1913-Patents Bladeless Turbine</li>
+      <li>Aug,1915-Tesla Files Lawsuit Against Guglielmo Marconi for stealing his nobel prize</li>
+      <li>Jul,1934-The New York Times publicizes Nikola Tesla's particle Beam research</li>
+      <li>Jan 7 1943-Nikola Tesla died of heart failure alone in room 3327 of the New Yorker Hotel</li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  Nikola Tesla was a genious inventor, his belief in what he did made him great! If your intrested in reading more about the Great Nikola Tesla <a id="tribute-link" href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiq8b_T5sTtAhVUGM0KHZcVCbAQFjAVegQITxAC&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNikola" <img src="_Tesla&usg=AOvVaw3vB-YOfwdGmqtap0QZwb25" target="_blank"></a> check this out.
+</section>
+
